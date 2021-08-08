@@ -1,0 +1,19 @@
+{
+  "name": "trustable-renting",
+  "version": "1.0.0",
+  "description": "The system to improve the renting experience, make it faster and easier for both tenant ad landlord",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton-iskryzhytskyi/trustable-renting.git"
+  },
+  "author": "Anton Iskryzhytskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anton-iskryzhytskyi/trustable-renting/issues"
+  },
+  "homepage": "https://github.com/anton-iskryzhytskyi/trustable-renting#readme"
+}

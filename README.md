@@ -22,3 +22,8 @@ The system provides an application that allows for users
 * User account - short person info (name, passport code, etc) plus renting records
 * Request of one time code exchange - short exchange info (from user, when requested)
 * Renting record - info about renting experience
+
+## Code structure
+* domain - domain entities and domain services
+* business - application services and external services
+* shared - could be used from anywhere and not influence on code logic - configs and logger
